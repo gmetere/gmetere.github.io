@@ -1,0 +1,124 @@
+* {
+margin : 0;
+padding : 0;
+border: 0;
+}
+body {
+font : 73% "Century Gothic", Arial, Helvetica, Tahoma, sans-serif;
+line-height: 2em;
+background : #EDE7DB url(images/bg.jpg) top center no-repeat;
+color : #1D3B46;
+}
+					/* LIST PROPERTIES */
+ol {list-style-type:square;font: 1.1em verdana, helvetica, Georgia, Times, serif;color: #999;}
+ol li {margin: 0 20px;padding: 3px 0;}	
+	
+					/* LINK PROPERTIES */
+a img {
+border: 0;
+}
+a:link, a:visited {
+text-decoration : underline;
+background : inherit;
+color : #A29585;
+}
+a:hover {
+background : inherit;
+color : #11B5C1;
+}
+					/* TYPOGRAPHY */
+p {padding: 5px;}
+em {
+font-weight: bold;
+font-size: 100%;color: #795A55;
+}
+blockquote {
+margin :0 20px;
+padding : 5px;
+font-weight: bold;
+}
+h1 {
+padding: 25px;
+font: normal 200% Century Gothic,sans-serif;
+letter-spacing: 3px;
+color: #EDE7DB;
+background: inherit;
+}
+h2 {
+padding: 20px 0 10px 0;
+font: normal 175% Century Gothic, Verdana, Arial, Sans-Serif;
+letter-spacing: 3px;
+color: #2F7082;
+background: inherit;
+}
+h3 {
+font-size: 14px;
+color: #044181;
+}
+					/* CLASSES */
+.big {letter-spacing: 2px;font-size: 150%;font-weight: bold;color: #1D3B46;}
+.clear {clear:both; height:1px; width:1px; line-height:0em; overflow:hidden;}
+
+					/* CONTAINER */
+#container {
+width: 780px;
+border: 0px solid #eee;
+margin-left: auto;
+margin-right: auto;
+padding: 10px;
+background: transparent;
+}
+					/* BANNER */
+#banner {
+height: 125px;
+padding: 5px;
+margin-bottom: 20px;
+background: transparent;
+}
+					/*HORIZONTAL MENU*/
+#menu ul {
+width : 100%;
+margin : 0;
+padding: 10px 0 10px 0;
+text-align : center;
+font-size: 2em;
+line-height : 17px;
+color : #000;
+background : transparent;
+}
+#menu ul li {
+display : inline;
+padding: 5px 0;
+}
+#menu ul li a {
+padding: 5px 15px;
+text-decoration : none;
+color : #EDE7DB;
+}
+#menu ul li a:hover {
+color : #8E7F6C;
+background : transparent;
+}
+
+					/* SIDEBAR */
+#sidebar {
+float: right;
+width:180px;
+margin: 0 0 0 0;
+padding: 10px;
+}
+					/* MAIN CONTENT */
+#content {
+padding: 5px;
+margin-right:5px ;
+background: transparent;
+}
+
+					/* FOOTER */
+#footer {
+clear: both;
+padding: 5px;
+margin-top: 50px;
+font-size: 0.8em;
+background: transparent;
+}
