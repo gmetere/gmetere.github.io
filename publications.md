@@ -205,6 +205,11 @@ include a link to an arXiv version or to an openly accessible PDF.
 
 ## Preprints and unpublished notes
 
+1. G. Metere,  
+   **A Dialogue on Eight Questions in One**,  
+   unpublished preprint, 2026.  
+   [PDF](/dialogue_agliano_question_final.pdf)
+
 1. S. Kasangian, G. Metere and E. M. Vitale,  
    **Weak inverses for strict n-categories**,  
    unpublished preprint, 2010.  
