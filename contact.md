@@ -4,16 +4,33 @@ title: Contact
 permalink: /contact/
 ---
 
+<p class="lead">
+Contact information and institutional address.
+</p>
+
 ## Giuseppe Metere
 
-Department of Mathematics  
+Associate Professor of Algebra  
+Dipartimento di Scienze per gli Alimenti, la Nutrizione e l'Ambiente — DEFENS  
 Università degli Studi di Milano
 
-Email: giuseppe.metere@unimi.it
+Via Celoria, 2  
+20133 Milano  
+Italy
 
-## Links
+## Email
+
+giuseppe.metere at unimi dot it
+
+## Web
+
+- [Personal website](https://gmetere.github.io/)
+- [Institutional page — DeFENS, Università degli Studi di Milano](https://www.unimi.it/it/ugov/person/giuseppe-metere)
+
+## Curriculum vitae
+
+[Curriculum vitae](/curriculum.pdf)
+
+## Profiles
 
 - [GitHub](https://github.com/gmetere)
-- [arXiv](https://arxiv.org/)
-- [ORCID](https://orcid.org/)
-- [Google Scholar](https://scholar.google.com/)
