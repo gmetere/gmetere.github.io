@@ -8,6 +8,8 @@ permalink: /publications/
 Published papers, preprints, and selected mathematical notes.
 </p>
 
+**TEST PUBLICATIONS PAGE — 5 July 2026**
+
 The list below is ordered from newest to oldest. For journal publications,
 the first link points to the journal page or DOI. When available, I also
 include a link to an arXiv version or to an openly accessible PDF.
