@@ -156,15 +156,53 @@ li {
 .cards {
   display: grid;
   grid-template-columns: 1fr;
-  gap: 1rem;
-  margin-top: 2.8rem;
+  gap: 1.05rem;
+  margin-top: 3rem;
 }
 
 .card {
-  background: rgba(255, 255, 255, 0.64);
+  position: relative;
+  background: rgba(255, 255, 255, 0.72);
   border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 1.2rem 1.25rem 1.3rem;
+  border-radius: 14px;
+  padding: 1.25rem 1.3rem 1.35rem;
+  box-shadow: 0 10px 24px rgba(80, 60, 40, 0.045);
+  transition: transform 160ms ease, box-shadow 160ms ease, border-color 160ms ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 30px rgba(80, 60, 40, 0.08);
+  border-color: #c9bdae;
+}
+
+.card h2,
+.card h3 {
+  margin-top: 0;
+  margin-bottom: 0.55rem;
+  font-size: 1.28rem;
+}
+
+.card p {
+  margin-bottom: 0.8rem;
+}
+
+.card p:last-child {
+  margin-bottom: 0;
+}
+
+.card a {
+  font-size: 0.96rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.card a::after {
+  content: "";
+}
+
+.card a:hover {
+  text-decoration: underline;
 }
 
 .card h2,
@@ -380,4 +418,23 @@ code {
 
 .home-meta p {
   margin: 0.35rem 0;
+}
+
+/* --- Home refinements --- */
+
+.home-intro {
+  margin-bottom: 1.8rem;
+}
+
+.home-note {
+  margin: 1.8rem 0 2rem;
+  padding: 1rem 1.2rem;
+  border-left: 3px solid var(--border);
+  background: rgba(255, 255, 255, 0.48);
+  color: var(--muted);
+  font-size: 0.96rem;
+}
+
+.home-note p {
+  margin: 0.4rem 0;
 }
