@@ -11,9 +11,7 @@ e testi d'esame.
 
 ## Corsi attuali
 
-Le informazioni aggiornate sui corsi attuali si possono trovare sulla mia home-page istituzionale:
-
-[Home page](https://www.unimi.it/it/ugov/person/giuseppe-metere)
+Le informazioni aggiornate sui corsi attuali si possono trovare sulla mia home-page istituzionale: [Home page](https://www.unimi.it/it/ugov/person/giuseppe-metere)
 
 
 ### Elementi di Calcolo
