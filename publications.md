@@ -179,9 +179,9 @@ include a link to an arXiv version or to an openly accessible PDF.
 1. S. Kasangian, G. Metere and E. M. Vitale,  
    **Weak inverses for strict n-categories**,  
    unpublished preprint, 2010.  
-   <!-- Add local PDF when available: [PDF](/files/papers/weak-inverses-strict-n-categories.pdf) -->
+   [PDF](/files/papers/weak-inverses-strict-n-categories.pdf)
 
 2. G. Metere,  
    **Homotopy pullbacks for n-categories**,  
    unpublished preprint, 2009.  
-   <!-- Add local PDF when available: [PDF](/files/papers/homotopy-pullbacks-n-categories.pdf) -->
+   [PDF](/files/papers/homotopy-pullbacks-n-categories.pdf)
