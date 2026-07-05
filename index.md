@@ -7,7 +7,7 @@ permalink: /
 <img src="/images/foto.png" alt="Giuseppe Metere" class="portrait">
 
 <p class="lead">
-I am Beppe Metere, Associate Professor of Algebra at the Università degli Studi di Milano.
+I am Giuseppe (Beppe) Metere, Associate Professor of Algebra at the Università degli Studi di Milano.
 </p>
 
 I work at the Dipartimento di Scienze per gli Alimenti, la Nutrizione e
