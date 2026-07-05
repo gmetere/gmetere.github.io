@@ -5,8 +5,7 @@ permalink: /teaching/
 ---
 
 <p class="lead">
-Informazioni sui corsi attuali e passati, materiali didattici, esercizi
-e testi d'esame.
+Informazioni sui corsi attuali e passati.
 </p>
 
 ## Corsi attuali
