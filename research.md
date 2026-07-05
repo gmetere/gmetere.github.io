@@ -4,35 +4,71 @@ title: Research
 permalink: /research/
 ---
 
-My research is mainly concerned with category theory, categorical algebra,
-universal algebra, and algebraic logic.
+<p class="lead">
+My research is in algebra, category theory, categorical algebra, universal
+algebra, and algebraic logic.
+</p>
 
-## Categorical algebra
+I am mainly interested in categorical methods in algebra: how algebraic
+structures can be studied through their intrinsic categorical properties,
+and how algebraic examples suggest new categorical notions.
 
-I work on algebraic and homological structures in categorical contexts,
-with particular attention to semi-abelian categories, protomodular
-categories, torsion theories, and related exactness phenomena.
+Much of my work is related to semi-abelian and homological categories,
+protomodularity, internal groupoids, crossed modules, butterflies,
+normality, actions, and torsion-theoretic phenomena. I am also interested
+in categorical aspects of algebraic logic, including structures related
+to MV-algebras, lattice-ordered groups, hoops, and valuation-like
+invariants.
 
-## Universal algebra and protomodularity
+## Categorical algebra and homological methods
 
-A recurring theme in my work is the interaction between algebraic
-properties of varieties and categorical properties of the corresponding
-categories of algebras. This includes protomodular varieties,
-prevarieties, and related questions about initial objects, finite limits,
-and algebraic structure.
+A central part of my research concerns algebraic and homological
+structures in categorical contexts. This includes semi-abelian categories,
+homological categories, Mal'tsev and protomodular categories, normal
+subobjects, equivalence relations, commutators, internal groupoids, and
+crossed modules.
+
+Several of my papers deal with internal categorical structures and their
+homological behaviour, including exact sequences of higher groupoids,
+internal crossed modules, Peiffer commutators, normal monomorphisms,
+relative ideals, and categorical forms of obstruction theory.
+
+## Butterflies, crossed modules, and higher-dimensional algebra
+
+Another recurring theme is the use of butterflies and related structures
+to understand morphisms, extensions, and cohomological constructions in
+non-abelian and semi-abelian settings.
+
+This line of work includes the calculus of butterflies, the snail lemma,
+cohomology 2-groups, groupal pseudofunctors, and fibred-categorical
+obstruction theory.
+
+## Protomodularity and universal algebra
+
+I am interested in the interaction between categorical properties and
+universal algebraic structure. In particular, I study protomodular
+varieties and prevarieties, algebraic theories, and the way categorical
+conditions such as finite completeness, normality, and conservativity of
+change-of-base functors reflect algebraic phenomena.
 
 ## Algebraic logic
 
-I am also interested in structures arising from algebraic logic,
-including MV-algebras, hoops, Heyting semilattices, lattice-ordered
-groups, and categorical constructions related to them.
+Part of my recent work concerns algebraic and categorical structures
+arising from logic, especially MV-algebras, hoops, Heyting semilattices,
+lattice-ordered groups, and related categorical constructions.
 
-## Current directions
+I am particularly interested in universal properties, evaluation-like
+invariants, and the categorical meaning of classical algebraic
+representations such as the Mundici equivalence.
 
-Some current directions include:
+## Research projects and affiliations
 
-- bitorsion theories and butterflies;
-- categorical aspects of internal actions;
-- protomodular varieties and related algebraic structures;
-- universal constructions around MV-algebras and the Mundici equivalence;
-- categorical and algebraic forms of valuation.
+I am a member of GNSAGA, the National Research Group in algebraic
+structures and combinatorial geometry of INdAM.
+
+I am a co-founder and member of the steering committee of ItaCa, the
+Italian community of category theorists, which runs seminars, workshops,
+online courses, and other scientific activities.
+
+In 2023 I was head of the Palermo research unit of the PRIN PNRR project
+“Quantum Models for Logic, Computation and Natural Processes”.
