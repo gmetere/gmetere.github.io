@@ -290,3 +290,94 @@ code {
     margin: 0 0 1.5rem 0;
   }
 }
+/* --- Typographic refinements --- */
+
+.page-content > p,
+.post-content > p,
+.page-content > ul,
+.page-content > ol,
+.post-content > ul,
+.post-content > ol {
+  max-width: 720px;
+}
+
+.page-content h2,
+.post-content h2 {
+  border-top: 1px solid var(--border);
+  padding-top: 1.4rem;
+}
+
+.page-content h2:first-child,
+.post-content h2:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.page-content h3,
+.post-content h3 {
+  color: #332e2a;
+}
+
+.page-content strong,
+.post-content strong {
+  color: #1c1917;
+}
+
+.page-content em,
+.post-content em {
+  color: #403a35;
+}
+
+.page-content li + li,
+.post-content li + li {
+  margin-top: 0.5rem;
+}
+/* --- Bibliographic lists --- */
+
+.page-content ol {
+  counter-reset: item;
+}
+
+.page-content ol > li {
+  margin-bottom: 1.25rem;
+  padding-left: 0.2rem;
+}
+
+.page-content ol > li::marker {
+  color: var(--soft);
+  font-size: 0.9rem;
+}
+
+.page-content ol > li strong {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  font-weight: 500;
+}
+
+.page-content ol > li a {
+  font-size: 0.94rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.page-content ol > li a:hover {
+  text-decoration: underline;
+}
+/* --- Home page refinements --- */
+
+.home-intro {
+  margin-bottom: 2rem;
+}
+
+.home-meta {
+  margin-top: 1.5rem;
+  padding: 1rem 1.2rem;
+  background: rgba(255, 255, 255, 0.55);
+  border-left: 3px solid var(--border);
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.home-meta p {
+  margin: 0.35rem 0;
+}
