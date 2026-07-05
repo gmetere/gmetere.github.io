@@ -792,3 +792,67 @@ a {
     display: none;
   }
 }
+/* =========================================================
+   Hero
+   ========================================================= */
+
+.hero {
+  margin-bottom: 2rem;
+}
+
+.eyebrow {
+  margin: 0 0 0.7rem;
+  color: var(--link);
+  font-size: 0.82rem;
+  font-weight: 600;
+  letter-spacing: 0.075em;
+  text-transform: uppercase;
+}
+
+.hero .lead {
+  margin-top: 0;
+}
+/* =========================================================
+   Card motif
+   ========================================================= */
+
+.card::before {
+  content: "";
+  display: block;
+  width: 2.2rem;
+  height: 2px;
+  margin-bottom: 0.85rem;
+  background: var(--link);
+  opacity: 0.55;
+}
+
+.card:hover::before {
+  opacity: 0.85;
+}
+/* =========================================================
+   Publications and bibliographic entries
+   ========================================================= */
+
+.page-content ol {
+  padding-left: 1.4rem;
+}
+
+.page-content ol > li {
+  padding-bottom: 1.15rem;
+  border-bottom: 1px solid rgba(221, 212, 202, 0.65);
+}
+
+.page-content ol > li:last-child {
+  border-bottom: 0;
+}
+
+.page-content ol > li strong {
+  display: inline;
+  color: #251f1b;
+}
+
+.page-content ol > li a {
+  display: inline-block;
+  margin-top: 0.25rem;
+  margin-right: 0.25rem;
+}
