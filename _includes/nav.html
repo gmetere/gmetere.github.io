@@ -1,16 +1,36 @@
 <header class="site-header">
-  <div class="site-title">
-    <a href="{{ '/' | relative_url }}">Giuseppe Metere</a>
+  <div class="site-branding">
+    <div class="site-title">
+      <a href="{{ '/' | relative_url }}">Giuseppe Metere</a>
+    </div>
+    <div class="site-subtitle">
+      Algebra · Category Theory · Categorical Algebra
+    </div>
   </div>
 
-  <nav class="site-nav">
-    <a href="{{ '/research/' | relative_url }}">Research</a>
-    <a href="{{ '/publications/' | relative_url }}">Publications</a>
-    <a href="{{ '/teaching/' | relative_url }}">Didattica</a>
-    <a href="{{ '/writing/' | relative_url }}">Writing</a>
-    <a href="{{ '/notebook/' | relative_url }}">Notebook</a>
-    <a href="{{ '/talks/' | relative_url }}">Talks</a>
-    <a href="{{ '/community/' | relative_url }}">Community</a>
-    <a href="{{ '/contact/' | relative_url }}">Contact</a>
+  <nav class="site-nav" aria-label="Main navigation">
+    <a href="{{ '/research/' | relative_url }}"
+       class="{% if page.url contains '/research/' %}active{% endif %}">Research</a>
+
+    <a href="{{ '/publications/' | relative_url }}"
+       class="{% if page.url contains '/publications/' %}active{% endif %}">Publications</a>
+
+    <a href="{{ '/teaching/' | relative_url }}"
+       class="{% if page.url contains '/teaching/' %}active{% endif %}">Didattica</a>
+
+    <a href="{{ '/writing/' | relative_url }}"
+       class="{% if page.url contains '/writing/' %}active{% endif %}">Writing</a>
+
+    <a href="{{ '/notebook/' | relative_url }}"
+       class="{% if page.url contains '/notebook/' %}active{% endif %}">Notebook</a>
+
+    <a href="{{ '/talks/' | relative_url }}"
+       class="{% if page.url contains '/talks/' %}active{% endif %}">Talks</a>
+
+    <a href="{{ '/community/' | relative_url }}"
+       class="{% if page.url contains '/community/' %}active{% endif %}">Community</a>
+
+    <a href="{{ '/contact/' | relative_url }}"
+       class="{% if page.url contains '/contact/' %}active{% endif %}">Contact</a>
   </nav>
 </header>
