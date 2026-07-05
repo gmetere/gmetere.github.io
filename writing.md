@@ -37,8 +37,7 @@ Villa Vigoni, 4–8 November 2019.  [PDF](/villa_vigoni.pdf)
 
 ### Archimede, appunti per un viaggio a Siracusa
 
-Intervento tenuto nella classe 2H del Liceo Classico G. Carducci, Milano, 2024.  
-[PDF](/archimede.pdf)
+Intervento tenuto nella classe 2H del Liceo Classico G. Carducci, Milano, 2024.  [PDF](/archimede.pdf)
 
 ### La googologia e la logica dei grandi numeri
 
