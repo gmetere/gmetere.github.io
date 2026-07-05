@@ -5,77 +5,75 @@ permalink: /community/
 ---
 
 <p class="lead">
-Attività scientifiche, organizzazione di convegni, iniziative di comunità
-e collaborazioni istituzionali.
+Scientific community activities, workshops, conferences, editorial work,
+and institutional collaborations.
 </p>
 
 ## ItaCa
 
-Sono co-fondatore e membro del comitato direttivo di ItaCa, la comunità
-italiana dei teorici delle categorie.
+I am a co-founder and member of the steering committee of ItaCa, the
+Italian community of category theorists.
 
-ItaCa organizza seminari online, workshop annuali, corsi e altre attività
-scientifiche dedicate alla teoria delle categorie e alle sue applicazioni.
+ItaCa organises online seminars, annual workshops, online courses, and
+other scientific activities devoted to category theory and its
+applications.
 
-[Progetto ItaCa](https://progetto-itaca.github.io/)
+[ItaCa website](https://progetto-itaca.github.io/)
 
 ## CatAlg
 
-Ho contribuito all'organizzazione di diverse edizioni di CatAlg,
-il Workshop in Categorical Algebra, un incontro internazionale dedicato
-all'algebra categoriale e alle sue interazioni con algebra, logica e
-topologia.
+I have been involved in the organisation of several editions of CatAlg,
+the Workshop in Categorical Algebra, an international meeting devoted to
+categorical algebra and its interactions with algebra, logic, and
+topology.
 
-Tra le edizioni organizzate:
+Among the editions I helped organise are:
 
-- CatAlg2006, Milano;
+- CatAlg2006, Milan;
 - CatAlg2011, Gargnano del Garda;
 - CatAlg2015, Gargnano del Garda;
 - CatAlg2018, Gargnano del Garda;
 - CatAlg2022, Gargnano del Garda.
 
-## Workshop e convegni
+## Workshops and conferences
 
-Ho fatto parte del comitato organizzatore o scientifico di diversi
-incontri internazionali, tra cui:
+I have served on the organising or scientific committees of several
+international meetings, including:
 
-- CT & CatAlg, workshop in occasione del sessantesimo compleanno di
-  Enrico Vitale, Milano, 2024;
-- ItaCa Workshop, Padova, 2024;
-- ItaCa Workshop, Torino, 2023;
+- CT & CatAlg, workshop on the occasion of Enrico Vitale's 60th birthday,
+  Milan, 2024;
+- 5th ItaCa Workshop, Padova, 2024;
+- 4th ItaCa Workshop, Torino, 2023;
 - 105th Peripatetic Seminar on Sheaves and Logic, Terrasini, 2023;
 - CT20→21 Category Theory Conference, Genova, 2021;
 - 105th Peripatetic Seminar on Sheaves and Logic, Palermo, 2019;
 - 96th Peripatetic Seminar on Sheaves and Logic, Palermo, 2014;
-- In memory of Aurelio Carboni, Milano, 2013.
+- In memory of Aurelio Carboni, Milan, 2013.
 
 ## World Logic Day
 
-Ho organizzato a Palermo due edizioni del World Logic Day, iniziativa
-promossa dall'UNESCO:
+I organised two editions of World Logic Day in Palermo:
 
 - World Logic Day 2023;
 - World Logic Day 2024.
 
-## Attività editoriali e referee
+## Editorial and referee activity
 
-Sono editor della rivista scientifica *Theory and Applications of
-Categories*.
+I am an editor of the journal *Theory and Applications of Categories*.
 
-Ho svolto attività di referee per riviste e istituzioni scientifiche,
-tra cui:
+I have acted as referee for several journals and institutions, including:
 
 - *Journal of Algebra and its Applications*;
 - *Theory and Applications of Categories*;
 - *Cahiers de Topologie et Géométrie Différentielle Catégoriques*;
 - *Applied Categorical Structures*;
 - *Journal of Homotopy and Related Structures*;
-- F.R.S.-FNRS, Belgio.
+- F.R.S.-FNRS, Belgium.
 
-## Affiliazioni scientifiche
+## Scientific affiliations
 
-Sono membro di GNSAGA, il Gruppo Nazionale per le Strutture Algebriche,
-Geometriche e le loro Applicazioni dell'INdAM.
+I am a member of GNSAGA, the National Research Group in Algebraic
+Structures, Combinatorial Geometry and their Applications of INdAM.
 
-Dal dicembre 2023 sono membro dell'Accademia Nazionale Scienze Lettere e
-Arti di Palermo.
+Since December 2023 I have been a member of the Accademia Nazionale
+Scienze Lettere e Arti of Palermo.
