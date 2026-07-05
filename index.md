@@ -32,12 +32,12 @@ suggest new categorical questions.
 <div class="home-note">
 
 <p>
-Since December 2023 I have been a member of the Accademia Nazionale
-Scienze Lettere e Arti of Palermo.
+Since December 2023 I have been a member of the [Accademia Nazionale
+Scienze Lettere e Arti of Palermo](https://www.ansla.it/).
 </p>
 
 <p>
-I am also a co-founder and member of the steering committee of ItaCa,
+I am also a co-founder and member of the steering committee of [ItaCa](https://progetto-itaca.github.io/),
 the Italian community of category theorists.
 </p>
 
