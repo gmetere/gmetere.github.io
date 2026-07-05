@@ -173,6 +173,23 @@ include a link to an arXiv version or to an openly accessible PDF.
     [Journal](https://projecteuclid.org/journals/homology-homotopy-and-applications/volume-8/issue-1/Split-extensions-semidirect-product-and-holomorph-of-categorical-groups/hha/1140012468.full)
     · [PDF](https://intlpress.com/api/bgcloud-front/resource/pdf/volume/1805807257117933570-1805807257117933570-1ce5be2e0b912698419d048ce0994f7f.pdf)
 
+## Conference papers
+
+1. S. Lapenta, G. Metere and L. Spada,  
+   **Relative ideals, homological categories and non-classical logics**,  
+   conference paper, LATD 2025 — Logic, Algebra and Truth Degrees, Siena, 2025.  
+   [PDF](/siena2025.pdf)
+
+2. M. Mancini, G. Metere, F. Piazza and M. E. Tabacchi,  
+   **On split extensions of hoops**,  
+   conference paper, LATD 2025 — Logic, Algebra and Truth Degrees, Siena, 2025.  
+   [PDF](/piazza2026.pdf)
+
+3. M. Mancini, G. Metere, F. Piazza and M. E. Tabacchi,  
+   **On split extensions of product hoops**,  
+   conference paper, 2025 IEEE International Conference on Fuzzy Systems.  
+   [IEEE Xplore](https://ieeexplore.ieee.org/document/11152177)
+
 ## Preprints and unpublished notes
 
 1. S. Kasangian, G. Metere and E. M. Vitale,  
@@ -184,3 +201,4 @@ include a link to an arXiv version or to an openly accessible PDF.
    **Homotopy pullbacks for n-categories**,  
    unpublished preprint, 2009.  
    [PDF](/files/papers/homotopy-pullbacks-n-categories.pdf)
+
