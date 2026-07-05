@@ -54,14 +54,3 @@ matematica, algebra, informatica teorica, analisi, geometria e campi
 finiti presso l'Università degli Studi di Milano, il Politecnico di
 Milano, l'Università Bocconi, l'Università di Milano-Bicocca e
 l'Università dell'Insubria.
-
-## Tesi
-
-Ho seguito diverse tesi di laurea triennale e magistrale in Matematica e
-Informatica, e attività di dottorato nell'ambito dell'algebra e
-dell'algebra categoriale.
-
-## Materiali didattici
-
-In questa sezione saranno raccolti appunti, esercizi, testi d'esame e
-altri materiali didattici.
