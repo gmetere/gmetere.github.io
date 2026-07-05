@@ -14,6 +14,7 @@ Selected talks, lectures, seminar presentations, and slides.
 
 SIC — Séminaire Itinérant de Catégories,  
 Louvain-la-Neuve, Belgium, 6 September 2025.
+[Slides](/SIC_2025_metere.pdf)
 
 ### The Butterfly Effect
 
@@ -61,7 +62,10 @@ Università degli Studi di Palermo, 8 June 2022.
 ### Some fibrational properties of normal monomorphisms
 
 TAC seminar, Università di Genova,  
-20 February 2020.  
+20 February 2020
+and
+Algebra, Logic and Topology Seminar (CMUC), 
+14 July 2020
 [Slides](/ideality.pdf)
 
 ### Algorithms and diagrammatic reasoning
@@ -99,7 +103,3 @@ CatAlg2011 — Workshop in Categorical Algebra,
 Gargnano del Garda, 27 September – 1 October 2011.  
 [Slides](/CATALG.pdf)
 
-### Exact sequences of strict n-groupoids
-
-Summer School on Contemporary Categorical Methods in Algebra and Topology,  
-Haute-Bodeux Ardennes, Belgium, 3–10 June 2007.
