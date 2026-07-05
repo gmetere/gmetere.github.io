@@ -15,21 +15,6 @@ Selected talks, lectures, seminar presentations, and slides.
 SIC — Séminaire Itinérant de Catégories,  
 Louvain-la-Neuve, Belgium, 6 September 2025.
 
-### Coherent and ideal actions in ideally exact categories
-
-111th Peripatetic Seminar on Sheaves and Logic,  
-Bologna, Italy, 4–5 September 2025.
-
-### Unital Actions
-
-Università degli Studi di Salerno,  
-9 April 2025.
-
-### Unital Actions
-
-LAC seminar series, Dipartimento di Matematica,  
-Università degli Studi di Milano, 12 December 2024.
-
 ### The Butterfly Effect
 
 CT & CatAlg, workshop on the occasion of Enrico Vitale's 60th birthday,  
