@@ -4,16 +4,117 @@ title: Talks
 permalink: /talks/
 ---
 
-This page collects selected talks, slides, and lectures.
+<p class="lead">
+Selected talks, lectures, seminar presentations, and slides.
+</p>
 
-## Invited talks
+## Recent talks
 
-_To be updated._
+### Coherent and ideal actions in ideally exact categories
 
-## Conference talks
+SIC — Séminaire Itinérant de Catégories,  
+Louvain-la-Neuve, Belgium, 6 September 2025.
 
-_To be updated._
+### Coherent and ideal actions in ideally exact categories
 
-## Outreach talks
+111th Peripatetic Seminar on Sheaves and Logic,  
+Bologna, Italy, 4–5 September 2025.
 
-_To be updated._
+### Unital Actions
+
+Università degli Studi di Salerno,  
+9 April 2025.
+
+### Unital Actions
+
+LAC seminar series, Dipartimento di Matematica,  
+Università degli Studi di Milano, 12 December 2024.
+
+### The Butterfly Effect
+
+CT & CatAlg, workshop on the occasion of Enrico Vitale's 60th birthday,  
+Milano, Italy, 9 September 2024.  
+[Slides](/Auguri_Enrico.pdf)
+
+### Relative ideals in homological categories
+
+Dipartimento di Matematica, Università degli Studi di Milano,  
+22 March 2024.  
+[Slides](/bentornato.pdf)
+
+## Selected invited and conference talks
+
+### Cohomology 2-groups: an invitation to higher dimensional categorical algebra
+
+GTG — Groups and Topological Groups,  
+Milano, Italy, 15–16 June 2023.
+
+### Groupal pseudofunctors and cohomology 2-groups
+
+107th Peripatetic Seminar on Sheaves and Logic,  
+Athens, Greece, 31 March – 1 April 2023.
+
+### The wise old scientist: a commentary on ethics, old age and science
+
+Personalised services for the Elders. Discussing design options in an
+interdisciplinary and intercultural way,  
+Villa Vigoni, 30 November 2022.
+
+### Groupal pseudofunctors
+
+New Trends in Hopf Algebras and Monoidal Categories,  
+Università di Torino, 7 September 2022.  
+[Slides](/Metere_Turin_2022.pdf)
+
+### Un invito all'algebra categoriale
+
+Seminario di Dipartimento,  
+Università degli Studi di Palermo, 8 June 2022.
+
+## Older selected talks
+
+### Some fibrational properties of normal monomorphisms
+
+TAC seminar, Università di Genova,  
+20 February 2020.  
+[Slides](/ideality.pdf)
+
+### Algorithms and diagrammatic reasoning
+
+Autonomous and Algorithmic Cultures: Responsibility in the Knowledge
+Production and its Applications,  
+Villa Vigoni, 4 November 2019.
+
+### Fibred and internal aspects of distributors composition
+
+103rd Peripatetic Seminar on Sheaves and Logic,  
+Masaryk University, Brno, 7 April 2018.
+
+### Some thoughts on Yoneda's regular spans and related notions
+
+5th Workshop on Categorical Methods in Non-Abelian Algebra,  
+UCLouvain, Louvain-la-Neuve, 1–3 June 2017.  
+[Slides](/lln2017.pdf)
+
+### Extension theory and the calculus of butterflies
+
+97th Peripatetic Seminar on Sheaves and Logic,  
+Louvain-la-Neuve, 1 February 2015.  
+[Slides](/PSSL97.pdf)
+
+### How to get a snail from a butterfly
+
+Séminaire Itinérant de Catégories,  
+Louvain-la-Neuve, 17 May 2014.  
+[Slides](/SIC.pdf)
+
+### Braided and symmetric internal groupoids
+
+CatAlg2011 — Workshop in Categorical Algebra,  
+Gargnano del Garda, 27 September – 1 October 2011.  
+[Slides](/CATALG.pdf)
+
+### Exact sequences of strict n-groupoids
+
+Summer School on Contemporary Categorical Methods in Algebra and Topology,  
+Haute-Bodeux Ardennes, Belgium, 3–10 June 2007.
