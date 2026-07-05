@@ -1,0 +1,17 @@
+title: "Giuseppe Metere"
+description: "Mathematician working in category theory, categorical algebra, and universal algebra."
+url: "https://gmetere.github.io"
+baseurl: ""
+
+author:
+  name: "Giuseppe Metere"
+  email: "giuseppe.metere@unimi.it"
+
+markdown: kramdown
+
+permalink: /notebook/:year/:month/:day/:title/
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
