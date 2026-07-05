@@ -186,3 +186,24 @@ ul {
     grid-template-columns: 1fr 1fr;
   }
 }
+.portrait {
+  float: right;
+  width: 150px;
+  max-width: 32%;
+  height: auto;
+  margin: 0 0 1.2rem 1.8rem;
+  border-radius: 4px;
+}
+
+.clear {
+  clear: both;
+}
+
+@media (max-width: 150px) {
+  .portrait {
+    float: none;
+    display: block;
+    max-width: 150px;
+    margin: 0 0 1.5rem 0;
+  }
+}
