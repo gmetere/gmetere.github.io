@@ -730,3 +730,65 @@ a {
     padding: 0.9rem 1rem;
   }
 }
+/* =========================================================
+   Navigation theme
+   ========================================================= */
+
+.site-branding {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.site-subtitle {
+  color: var(--muted);
+  font-size: 0.82rem;
+  letter-spacing: 0.045em;
+  text-transform: uppercase;
+}
+
+.site-nav a.active {
+  color: var(--link);
+  border-bottom-color: var(--link);
+}
+
+.site-nav a.active::before {
+  content: "· ";
+}
+
+@media (max-width: 640px) {
+  .site-subtitle {
+    font-size: 0.74rem;
+  }
+
+  .site-nav a.active::before {
+    content: "";
+  }
+}
+/* =========================================================
+   Recurring page motif
+   ========================================================= */
+
+.page,
+.post {
+  position: relative;
+}
+
+.page::before,
+.post::before {
+  content: "";
+  position: absolute;
+  left: -1.8rem;
+  top: 0.35rem;
+  width: 1px;
+  height: 7rem;
+  background: linear-gradient(to bottom, var(--link), transparent);
+  opacity: 0.35;
+}
+
+@media (max-width: 900px) {
+  .page::before,
+  .post::before {
+    display: none;
+  }
+}
