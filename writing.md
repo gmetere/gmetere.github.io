@@ -37,8 +37,8 @@ Villa Vigoni, 4–8 November 2019.  [PDF](/villa_vigoni.pdf)
 
 ### Archimede, appunti per un viaggio a Siracusa
 
-Intervento tenuto nella classe 2H del Liceo Classico G. Carducci, Milano,
-2024.  [PDF](/archimede.pdf)
+Intervento tenuto nella classe 2H del Liceo Classico G. Carducci, Milano, 2024.  
+[PDF](/archimede.pdf)
 
 ### La googologia e la logica dei grandi numeri
 
@@ -49,8 +49,7 @@ Intervento in occasione del World Logic Day 2024, Palermo.  [PDF](/googology.pdf
 
 Viaggio alla scoperta del rapporto tra attività di ricerca e
 invecchiamento.  
-Pubblicato in *Dalla Società della Scienza*, Palermo University Press,
-2025.  [PDF](/Ricerca%20e%20invecchiamento.pdf)
+Pubblicato in *Dalla Società della Scienza*, Palermo University Press, 2025.  [PDF](/Ricerca%20e%20invecchiamento.pdf)
 
 ### Un invito all'algebra categoriale
 
