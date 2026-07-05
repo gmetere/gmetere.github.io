@@ -15,6 +15,19 @@ include a link to an arXiv version or to an openly accessible PDF.
 
 ## Published papers
 
+1. M. Mancini, G. Metere and F. Piazza,  
+   **Coherent and ideal actions in ideally exact categories**,  
+   *Theory and Applications of Categories* 45, no. 31 (2026), 1280–1320.  
+   [Journal](http://www.tac.mta.ca/tac/volumes/45/31/45-31abs.html)
+   · [PDF](http://www.tac.mta.ca/tac/volumes/45/31/45-31.pdf)
+   · [arXiv](https://arxiv.org/abs/2507.06124)
+
+1. M. Mancini, G. Metere and F. Piazza,  
+   **On actions and split extensions in varieties of hoops: the case of strong section**,  
+   *Studia Logica*, online first, 2026.  
+   [Journal](https://link.springer.com/article/10.1007/s11225-026-10243-y)
+   · [arXiv](https://arxiv.org/abs/2510.06886)
+
 1. A. S. Cigoli, M. Mancini and G. Metere,  
    **On the representability of actions of Leibniz algebras and Poisson algebras**,  
    *Proceedings of the Edinburgh Mathematical Society* 66, no. 4 (2023).  
@@ -191,16 +204,6 @@ include a link to an arXiv version or to an openly accessible PDF.
    [IEEE Xplore](https://ieeexplore.ieee.org/document/11152177)
 
 ## Preprints and unpublished notes
-
-1. M. Mancini, G. Metere and F. Piazza,  
-   **Coherent and ideal actions in ideally exact categories**,  
-   submitted, 2025.  
-   [arXiv](https://arxiv.org/)
-
-1. M. Mancini, G. Metere and F. Piazza,  
-   **On actions and split extensions in varieties of hoops: the case of strong section**,  
-   accepted for publication in *Studia Logica*, 2026.  
-   [arXiv](https://arxiv.org/)
 
 1. S. Kasangian, G. Metere and E. M. Vitale,  
    **Weak inverses for strict n-categories**,  
