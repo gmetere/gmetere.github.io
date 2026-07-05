@@ -30,8 +30,6 @@ in both Mathematical Logic and Algebra.
 
 <div class="cards">
 
-<div class="cards">
-
   <div class="card">
     <h2>Research</h2>
     <p>Research interests, current projects, and mathematical themes.</p>
@@ -45,8 +43,8 @@ in both Mathematical Logic and Algebra.
   </div>
 
   <div class="card">
-    <h2>Teaching</h2>
-    <p>Courses, lecture notes, exercises, and exam material.</p>
+    <h2>Didattica (in Italian)</h2>
+    <p>Info on present and past teaching courses.</p>
     <p><a href="{{ '/teaching/' | relative_url }}">Teaching material →</a></p>
   </div>
 
