@@ -18,10 +18,7 @@ algebraic logic.
 
 I am interested in the way algebraic structures can be understood through
 categorical methods, and conversely in how concrete algebraic examples
-suggest new categorical questions. Much of my work concerns internal
-groupoids, crossed modules, butterflies, protomodularity, normality,
-actions, torsion-theoretic phenomena, and related structures in algebraic
-logic.
+suggest new categorical questions. 
 
 Since December 2023 I have been a member of the Accademia Nazionale
 Scienze Lettere e Arti of Palermo. I am also a co-founder and member of
@@ -29,8 +26,7 @@ the steering committee of ItaCa, the Italian community of category
 theorists.
 
 I have been awarded the Italian national qualification for full professor
-in both Mathematical Logic and Complementary Mathematics, and Geometry
-and Algebra.
+in both Mathematical Logic and Algebra.
 
 <div class="cards">
 
