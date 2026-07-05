@@ -4,19 +4,33 @@ title: Home
 permalink: /
 ---
 
+<img src="/images/foto.png" alt="Giuseppe Metere" class="portrait">
+
 <p class="lead">
-I am a mathematician working in category theory, categorical algebra,
-universal algebra, and algebraic logic.
+I am Beppe Metere, Associate Professor of Algebra at the Università degli Studi di Milano.
 </p>
 
-I am interested in algebraic and categorical structures arising from
-protomodularity, semi-abelian categories, torsion theories, internal
-actions, and related forms of algebraic logic.
+I work at the Dipartimento di Scienze per gli Alimenti, la Nutrizione e
+l'Ambiente (DEFENS), Università degli Studi di Milano. My research is in
+algebra and category theory, with particular emphasis on categorical
+algebra, universal algebra, homological and semi-abelian methods, and
+algebraic logic.
 
-My current research includes work on protomodular varieties, bitorsion
-theories, butterflies, categorical aspects of algebraic logic, and
-universal constructions related to MV-algebras and lattice-ordered
-groups.
+I am interested in the way algebraic structures can be understood through
+categorical methods, and conversely in how concrete algebraic examples
+suggest new categorical questions. Much of my work concerns internal
+groupoids, crossed modules, butterflies, protomodularity, normality,
+actions, torsion-theoretic phenomena, and related structures in algebraic
+logic.
+
+Since December 2023 I have been a member of the Accademia Nazionale
+Scienze Lettere e Arti of Palermo. I am also a co-founder and member of
+the steering committee of ItaCa, the Italian community of category
+theorists.
+
+I have been awarded the Italian national qualification for full professor
+in both Mathematical Logic and Complementary Mathematics, and Geometry
+and Algebra.
 
 <div class="cards">
 
@@ -24,8 +38,7 @@ groups.
 
 ## Research
 
-My research lies at the intersection of category theory, universal
-algebra, and algebraic logic.
+Research interests, current projects, and mathematical themes.
 
 [Read more →](/research/)
 
@@ -35,7 +48,7 @@ algebra, and algebraic logic.
 
 ## Publications
 
-A list of published papers, preprints, and selected notes.
+Published papers, preprints, and selected mathematical notes.
 
 [View publications →](/publications/)
 
@@ -45,7 +58,7 @@ A list of published papers, preprints, and selected notes.
 
 ## Teaching
 
-Current and past courses, lecture notes, exercises, and exam material.
+Courses, lecture notes, exercises, and exam material.
 
 [Teaching material →](/teaching/)
 
@@ -53,12 +66,36 @@ Current and past courses, lecture notes, exercises, and exam material.
 
 <div class="card">
 
+## Writing
+
+Expository texts, mathematical dialogues, notes for students, and public
+writing on mathematics.
+
+[Read more →](/writing/)
+
+</div>
+
+<div class="card">
+
 ## Notebook
 
-Occasional notes on mathematics, teaching, writing, and academic life.
+Occasional notes on mathematics, teaching, writing, conferences, and
+academic life.
 
 [Open the notebook →](/notebook/)
 
 </div>
 
+<div class="card">
+
+## Community
+
+ItaCa, CatAlg, workshops, conferences, and scientific community activities.
+
+[View activities →](/community/)
+
 </div>
+
+</div>
+
+<div class="clear"></div>
