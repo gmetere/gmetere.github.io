@@ -69,12 +69,12 @@ I have acted as referee for several journals and institutions, including:
 - *Cahiers de Topologie et Géométrie Différentielle Catégoriques*;
 - *Applied Categorical Structures*;
 - *Journal of Homotopy and Related Structures*;
-- F.R.S.-FNRS, Belgium.
+- F.R.S.-F.N.R.S., Belgium.
 
 ## Scientific affiliations
 
 I am a member of GNSAGA, the National Research Group in Algebraic
 Structures, Combinatorial Geometry and their Applications of INdAM.
 
-Since December 2023 I have been a member of the Accademia Nazionale
-Scienze Lettere e Arti of Palermo.
+Since December 2023 I have been a corresponding member of the [Accademia Nazionale
+Scienze Lettere e Arti of Palermo](https://www.ansla.it/).
