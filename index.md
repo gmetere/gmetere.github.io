@@ -30,67 +30,43 @@ in both Mathematical Logic and Algebra.
 
 <div class="cards">
 
-<div class="card">
+<div class="cards">
 
-## Research
+  <div class="card">
+    <h2>Research</h2>
+    <p>Research interests, current projects, and mathematical themes.</p>
+    <p><a href="{{ '/research/' | relative_url }}">Read more →</a></p>
+  </div>
 
-Research interests, current projects, and mathematical themes.
+  <div class="card">
+    <h2>Publications</h2>
+    <p>Published papers, preprints, and selected mathematical notes.</p>
+    <p><a href="{{ '/publications/' | relative_url }}">View publications →</a></p>
+  </div>
 
-[Read more →](/research/)
+  <div class="card">
+    <h2>Teaching</h2>
+    <p>Courses, lecture notes, exercises, and exam material.</p>
+    <p><a href="{{ '/teaching/' | relative_url }}">Teaching material →</a></p>
+  </div>
 
-</div>
+  <div class="card">
+    <h2>Writing</h2>
+    <p>Expository texts, mathematical dialogues, notes for students, and public writing on mathematics.</p>
+    <p><a href="{{ '/writing/' | relative_url }}">Read more →</a></p>
+  </div>
 
-<div class="card">
+  <div class="card">
+    <h2>Notebook</h2>
+    <p>Occasional notes on mathematics, teaching, writing, conferences, and academic life.</p>
+    <p><a href="{{ '/notebook/' | relative_url }}">Open the notebook →</a></p>
+  </div>
 
-## Publications
-
-Published papers, preprints, and selected mathematical notes.
-
-[View publications →](/publications/)
-
-</div>
-
-<div class="card">
-
-## Teaching
-
-Courses, lecture notes, exercises, and exam material.
-
-[Teaching material →](/teaching/)
-
-</div>
-
-<div class="card">
-
-## Writing
-
-Expository texts, mathematical dialogues, notes for students, and public
-writing on mathematics.
-
-[Read more →](/writing/)
-
-</div>
-
-<div class="card">
-
-## Notebook
-
-Occasional notes on mathematics, teaching, writing, conferences, and
-academic life.
-
-[Open the notebook →](/notebook/)
-
-</div>
-
-<div class="card">
-
-## Community
-
-ItaCa, CatAlg, workshops, conferences, and scientific community activities.
-
-[View activities →](/community/)
-
-</div>
+  <div class="card">
+    <h2>Community</h2>
+    <p>ItaCa, CatAlg, workshops, conferences, and scientific community activities.</p>
+    <p><a href="{{ '/community/' | relative_url }}">View activities →</a></p>
+  </div>
 
 </div>
 
