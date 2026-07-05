@@ -28,18 +28,18 @@ include a link to an arXiv version or to an openly accessible PDF.
    [Journal](https://link.springer.com/article/10.1007/s11225-026-10243-y)
    · [arXiv](https://arxiv.org/abs/2510.06886)
 
-1. A. S. Cigoli, M. Mancini and G. Metere,  
-   **On the representability of actions of Leibniz algebras and Poisson algebras**,  
-   *Proceedings of the Edinburgh Mathematical Society* 66, no. 4 (2023).  
-   [Journal](https://www.cambridge.org/core/journals/proceedings-of-the-edinburgh-mathematical-society/article/on-the-representability-of-actions-of-leibniz-algebras-and-poisson-algebras/34986E23ECC8342849177C04364E433B)
-   · [arXiv](https://arxiv.org/abs/2302.05175)
-
 1. S. Lapenta, G. Metere and L. Spada,  
    **Relative ideals in homological categories, with an application to MV-algebras**,  
    *Theory and Applications of Categories* 41, no. 27 (2024), 878–893.  
    [Journal](http://www.tac.mta.ca/tac/volumes/41/27/41-27abs.html)
    · [PDF](http://www.tac.mta.ca/tac/volumes/41/27/41-27.pdf)
    · [arXiv](https://arxiv.org/abs/2208.12597)
+
+1. A. S. Cigoli, M. Mancini and G. Metere,  
+   **On the representability of actions of Leibniz algebras and Poisson algebras**,  
+   *Proceedings of the Edinburgh Mathematical Society* 66, no. 4 (2023).  
+   [Journal](https://www.cambridge.org/core/journals/proceedings-of-the-edinburgh-mathematical-society/article/on-the-representability-of-actions-of-leibniz-algebras-and-poisson-algebras/34986E23ECC8342849177C04364E433B)
+   · [arXiv](https://arxiv.org/abs/2302.05175)
 
 1. A. S. Cigoli, S. Mantovani and G. Metere,  
    **The third cohomology 2-group**,  
