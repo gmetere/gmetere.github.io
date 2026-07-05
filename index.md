@@ -71,7 +71,7 @@ Email: giuseppe.metere at unimi dot it
 
 <p>
 <a href="/curriculum.pdf">Curriculum vitae</a><br>
-<a href="https://defens.unimi.it/en/department/contacts/people">Institutional page — DeFENS, Università degli Studi di Milano</a><br>
+<a href="https://www.unimi.it/it/ugov/person/giuseppe-metere">Institutional page — DeFENS, Università degli Studi di Milano</a><br>
 <a href="https://github.com/gmetere">GitHub</a>
 </p>
 
