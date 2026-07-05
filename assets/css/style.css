@@ -438,3 +438,295 @@ code {
 .home-note p {
   margin: 0.4rem 0;
 }
+/* =========================================================
+   Final visual refinements
+   ========================================================= */
+
+:root {
+  --background: #fbfaf7;
+  --background-top: #f4efe7;
+  --text: #24211f;
+  --muted: #706963;
+  --soft: #8b8178;
+  --border: #ddd4ca;
+  --surface: #fffdf9;
+  --surface-soft: #f6f1ea;
+  --link: #7a2e1f;
+  --link-hover: #4d1d14;
+  --shadow: rgba(92, 65, 42, 0.08);
+  --max-width: 1040px;
+  --content-width: 800px;
+}
+
+body {
+  background:
+    linear-gradient(to bottom, var(--background-top) 0, var(--background) 260px);
+  color: var(--text);
+}
+
+/* Main frame */
+
+.site {
+  max-width: var(--max-width);
+  padding-top: 2.4rem;
+}
+
+.content,
+.site-footer {
+  max-width: var(--content-width);
+}
+
+/* Header and navigation */
+
+.site-header {
+  margin-bottom: 4.2rem;
+  border-bottom-color: var(--border);
+}
+
+.site-title a {
+  font-size: clamp(1.85rem, 4vw, 2.35rem);
+  letter-spacing: -0.04em;
+}
+
+.site-nav {
+  gap: 0.5rem 1rem;
+  font-size: 0.86rem;
+}
+
+.site-nav a {
+  padding-bottom: 0.15rem;
+  color: var(--muted);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+}
+
+.site-nav a:hover {
+  color: var(--link);
+  border-bottom-color: var(--link);
+}
+
+/* Page titles */
+
+.page-header h1,
+.post-header h1 {
+  margin-bottom: 0;
+}
+
+.page-header::after,
+.post-header::after {
+  content: "";
+  display: block;
+  width: 4rem;
+  height: 1px;
+  margin-top: 1.2rem;
+  background: var(--border);
+}
+
+/* Typography */
+
+.lead {
+  max-width: 760px;
+  font-size: clamp(1.35rem, 3vw, 1.7rem);
+  color: #2b2723;
+}
+
+.page-content p,
+.post-content p {
+  max-width: 760px;
+}
+
+.page-content h2,
+.post-content h2 {
+  margin-top: 3.4rem;
+  padding-top: 1.3rem;
+  border-top: 1px solid var(--border);
+}
+
+.page-content h2:first-child,
+.post-content h2:first-child {
+  border-top: 0;
+  padding-top: 0;
+}
+
+.page-content h3,
+.post-content h3 {
+  color: #342f2a;
+}
+
+strong {
+  color: #1d1a18;
+}
+
+/* Links */
+
+a {
+  text-decoration-thickness: 0.06em;
+  text-underline-offset: 0.18em;
+}
+
+a:hover {
+  text-decoration-thickness: 0.08em;
+}
+
+/* Home portrait */
+
+.portrait {
+  width: 138px;
+  max-width: 30%;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  padding: 4px;
+  background: var(--surface);
+  box-shadow: 0 8px 20px var(--shadow);
+}
+
+/* Home institutional note */
+
+.home-note {
+  margin: 1.8rem 0 2.3rem;
+  padding: 1rem 1.2rem;
+  border-left: 3px solid var(--border);
+  background: rgba(255, 253, 249, 0.7);
+  color: var(--muted);
+  font-size: 0.96rem;
+}
+
+.home-note p {
+  margin: 0.4rem 0;
+}
+
+/* Cards */
+
+.cards {
+  margin-top: 3rem;
+  gap: 1.05rem;
+}
+
+.card {
+  background: rgba(255, 253, 249, 0.78);
+  border: 1px solid var(--border);
+  border-radius: 15px;
+  padding: 1.25rem 1.3rem 1.35rem;
+  box-shadow: 0 10px 26px rgba(92, 65, 42, 0.045);
+  transition:
+    transform 150ms ease,
+    box-shadow 150ms ease,
+    border-color 150ms ease,
+    background 150ms ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  background: rgba(255, 253, 249, 0.95);
+  border-color: #c9baaa;
+  box-shadow: 0 15px 34px rgba(92, 65, 42, 0.075);
+}
+
+.card h2,
+.card h3 {
+  font-size: 1.25rem;
+  margin-bottom: 0.55rem;
+}
+
+.card p {
+  color: #3f3933;
+}
+
+.card p:last-child {
+  margin-bottom: 0;
+}
+
+.card a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.card a:hover {
+  text-decoration: underline;
+}
+
+/* Bibliographic and long lists */
+
+.page-content ol > li,
+.post-content ol > li {
+  margin-bottom: 1.35rem;
+}
+
+.page-content ol > li::marker,
+.post-content ol > li::marker {
+  color: var(--soft);
+  font-size: 0.9rem;
+}
+
+.page-content ol > li strong,
+.post-content ol > li strong {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.05rem;
+  font-weight: 500;
+}
+
+/* Avoid overflow from long links */
+
+.content,
+.page-content,
+.post-content,
+a {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+/* Footer */
+
+.site-footer {
+  margin-top: 5.5rem;
+}
+
+/* Mobile */
+
+@media (max-width: 640px) {
+  html {
+    font-size: 17px;
+  }
+
+  .site {
+    padding: 1.35rem 1rem 3rem;
+  }
+
+  .site-header {
+    margin-bottom: 3rem;
+  }
+
+  .site-nav {
+    font-size: 0.83rem;
+    line-height: 1.45;
+    gap: 0.4rem 0.75rem;
+  }
+
+  h1 {
+    font-size: 2.05rem;
+  }
+
+  h2 {
+    font-size: 1.45rem;
+  }
+
+  .lead {
+    font-size: 1.28rem;
+  }
+
+  .portrait {
+    float: none;
+    display: block;
+    width: 128px;
+    max-width: 128px;
+    margin: 0 0 1.5rem 0;
+  }
+
+  .card {
+    padding: 1rem;
+  }
+
+  .home-note {
+    padding: 0.9rem 1rem;
+  }
+}
