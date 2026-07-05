@@ -4,9 +4,11 @@ title: Home
 permalink: /
 ---
 
+<section class="hero">
+
 <img src="/images/foto.png" alt="Giuseppe Metere" class="portrait">
 
-<div class="home-intro">
+<p class="eyebrow">Associate Professor of Algebra</p>
 
 <p class="lead">
 I am Giuseppe (Beppe) Metere, Associate Professor of Algebra at the Università degli Studi di Milano.
@@ -26,8 +28,7 @@ categorical methods, and conversely in how concrete algebraic examples
 suggest new categorical questions.
 </p>
 
-</div>
-
+</section>
 <div class="home-note">
 
 <p>
