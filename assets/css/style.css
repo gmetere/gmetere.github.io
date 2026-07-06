@@ -750,10 +750,17 @@ a {
 .site-nav a.active {
   color: var(--link);
   border-bottom-color: var(--link);
+  font-weight: 600;
+}
+
+@media (min-width: 720px) {
+  .site-nav {
+    gap: 0.6rem 1.15rem;
+  }
 }
 
 .site-nav a.active::before {
-  content: "· ";
+  content: "";
 }
 
 @media (max-width: 640px) {
