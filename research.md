@@ -72,3 +72,7 @@ online courses, and other scientific activities.
 
 In 2023 I was head of the Palermo research unit of the PRIN PNRR project
 “Quantum Models for Logic, Computation and Natural Processes”.
+
+## Selected keywords
+
+semi-abelian categories · protomodularity · internal groupoids · crossed modules · butterflies · algebraic logic · MV-algebras · hoops · torsion theories
