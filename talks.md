@@ -35,7 +35,7 @@ Dipartimento di Matematica, Università degli Studi di Milano,
 
 107th Peripatetic Seminar on Sheaves and Logic,  
 Athens, Greece, 31 March – 1 April 2023.
-
+[Slides](/pssl107.pdf)
 
 ### Groupal pseudofunctors
 
@@ -58,6 +58,7 @@ Algebra, Logic and Topology Seminar (CMUC),
 
 103rd Peripatetic Seminar on Sheaves and Logic,  
 Masaryk University, Brno, 7 April 2018.
+[Slides](/pssl103.pdf)
 
 ### Some thoughts on Yoneda's regular spans and related notions
 
