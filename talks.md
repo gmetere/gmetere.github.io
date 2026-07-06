@@ -30,21 +30,12 @@ Dipartimento di Matematica, Università degli Studi di Milano,
 
 ## Selected invited and conference talks
 
-### Cohomology 2-groups: an invitation to higher dimensional categorical algebra
-
-GTG — Groups and Topological Groups,  
-Milano, Italy, 15–16 June 2023.
 
 ### Groupal pseudofunctors and cohomology 2-groups
 
 107th Peripatetic Seminar on Sheaves and Logic,  
 Athens, Greece, 31 March – 1 April 2023.
 
-### The wise old scientist: a commentary on ethics, old age and science
-
-Personalised services for the Elders. Discussing design options in an
-interdisciplinary and intercultural way,  
-Villa Vigoni, 30 November 2022.
 
 ### Groupal pseudofunctors
 
@@ -52,12 +43,6 @@ New Trends in Hopf Algebras and Monoidal Categories,
 Università di Torino, 7 September 2022.  
 [Slides](/Metere_Turin_2022.pdf)
 
-### Un invito all'algebra categoriale
-
-Seminario di Dipartimento,  
-Università degli Studi di Palermo, 8 June 2022.
-
-## Older selected talks
 
 ### Some fibrational properties of normal monomorphisms
 
@@ -68,11 +53,6 @@ Algebra, Logic and Topology Seminar (CMUC),
 14 July 2020
 [Slides](/ideality.pdf)
 
-### Algorithms and diagrammatic reasoning
-
-Autonomous and Algorithmic Cultures: Responsibility in the Knowledge
-Production and its Applications,  
-Villa Vigoni, 4 November 2019.
 
 ### Fibred and internal aspects of distributors composition
 
