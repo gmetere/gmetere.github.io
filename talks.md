@@ -8,6 +8,8 @@ permalink: /talks/
 Selected talks, lectures, seminar presentations, and slides.
 </p>
 
+This is a selected list. A more complete list of talks and conference participation is available in my [CV](/curriculum.pdf).
+
 ## Recent talks
 
 ### Coherent and ideal actions in ideally exact categories
