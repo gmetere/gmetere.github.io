@@ -94,10 +94,10 @@ Email: giuseppe.metere at unimi dot it
   </div>
 
   <div class="card">
-    <h2>Didattica (in Italian)</h2>
-    <p>Info on present and past teaching courses.</p>
-    <p><a href="{{ '/teaching/' | relative_url }}">View Teaching →</a></p>
-  </div>
+  <h2>Didattica</h2>
+  <p>Corsi attuali e passati, informazioni didattiche e materiali per gli studenti.</p>
+  <p><a href="{{ '/teaching/' | relative_url }}">Vai alla didattica →</a></p>
+</div>
 
   <div class="card">
     <h2>Writing</h2>
