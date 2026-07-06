@@ -48,37 +48,6 @@ in both Mathematical Logic and Algebra.
 
 </div>
 
-<section class="home-contact">
-
-<h2>Contact</h2>
-
-<p>
-<strong>Giuseppe Metere</strong><br>
-Associate Professor of Algebra<br>
-Dipartimento di Scienze per gli Alimenti, la Nutrizione e l'Ambiente — DEFENS<br>
-Università degli Studi di Milano
-</p>
-
-<p>
-Via Celoria, 2<br>
-20133 Milano<br>
-Italy
-</p>
-
-<p>
-Email: giuseppe.metere at unimi dot it
-</p>
-
-<p>
-<a href="/curriculum.pdf">Curriculum vitae</a><br>
-<a href="https://www.unimi.it/it/ugov/person/giuseppe-metere">Institutional page — DeFENS, Università degli Studi di Milano</a><br>
-<a href="https://github.com/gmetere">GitHub</a>
-</p>
-
-</section>
-
-
-
 <div class="cards">
 
   <div class="card">
@@ -119,4 +88,35 @@ Email: giuseppe.metere at unimi dot it
 
 </div>
 
+<section class="home-contact">
+
+<h2>Contact</h2>
+
+<p>
+<strong>Giuseppe Metere</strong><br>
+Associate Professor of Algebra<br>
+Dipartimento di Scienze per gli Alimenti, la Nutrizione e l'Ambiente — DEFENS<br>
+Università degli Studi di Milano
+</p>
+
+<p>
+Via Celoria, 2<br>
+20133 Milano<br>
+Italy
+</p>
+
+<p>
+Email: giuseppe.metere at unimi dot it
+</p>
+
+<p>
+<a href="/curriculum.pdf">Curriculum vitae</a><br>
+<a href="https://www.unimi.it/it/ugov/person/giuseppe-metere">Institutional page at Unimi</a><br>
+<a href="https://github.com/gmetere">GitHub</a>
+</p>
+
+</section>
+
 <div class="clear"></div>
+
+
