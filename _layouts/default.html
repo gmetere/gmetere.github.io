@@ -19,13 +19,15 @@
   <body>
     <div class="site">
 
-      {% include nav.html %}
+      <aside class="sidebar">
+        {% include nav.html %}
+      </aside>
 
       <main class="content">
         {{ content }}
-      </main>
 
-      {% include footer.html %}
+        {% include footer.html %}
+      </main>
 
     </div>
   </body>
