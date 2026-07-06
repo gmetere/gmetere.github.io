@@ -27,8 +27,6 @@ the Workshop in Categorical Algebra, an international meeting devoted to
 categorical algebra and its interactions with algebra, logic, and
 topology.
 
-Among the editions I helped organise are:
-
 - CatAlg2006, Milan [website]()
 - CatAlg2011, Gargnano del Garda [website](https://gmetere.github.io/Gargnano2011/)
 - CatAlg2015, Gargnano del Garda [website](https://gmetere.github.io/Gargnano2015/) 
@@ -60,7 +58,7 @@ I organised two editions of World Logic Day in Palermo:
 
 ## Editorial and referee activity
 
-I am an editor of the journal *Theory and Applications of Categories*.
+I am an editor of the journal [Theory and Applications of Categories](http://www.tac.mta.ca/tac/).
 
 I have acted as referee for several journals and institutions, including:
 
