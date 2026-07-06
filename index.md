@@ -96,7 +96,7 @@ Email: giuseppe.metere at unimi dot it
   <div class="card">
     <h2>Didattica (in Italian)</h2>
     <p>Info on present and past teaching courses.</p>
-    <p><a href="{{ '/teaching/' | relative_url }}">Teaching material →</a></p>
+    <p><a href="{{ '/teaching/' | relative_url }}">View Teaching →</a></p>
   </div>
 
   <div class="card">
@@ -114,7 +114,7 @@ Email: giuseppe.metere at unimi dot it
   <div class="card">
     <h2>Community</h2>
     <p>ItaCa, CatAlg, workshops, conferences, and scientific community activities.</p>
-    <p><a href="{{ '/community/' | relative_url }}">View activities →</a></p>
+    <p><a href="{{ '/community/' | relative_url }}">View Community →</a></p>
   </div>
 
 </div>
