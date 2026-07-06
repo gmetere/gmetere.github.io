@@ -26,14 +26,14 @@ Course notes, April 2026.  [PDF](/sylow.pdf)
 
 Personalised services for the Elders. Discussing design options in an
 interdisciplinary and intercultural way.  
-Villa Vigoni, 28 November – 2 December 2022.  [PDF](/vigoni2022.pdf)
+Villa Vigoni, 28 November – 2 December 2022.  [slides](/vigoni2022.pdf)
 
 
 ### Algorithms and diagrammatic reasoning
 
 Autonomous and Algorithmic Cultures: Responsibility in the Knowledge
 Production and its Applications.  
-Villa Vigoni, 4–8 November 2019.  [PDF](/villa_vigoni.pdf)
+Villa Vigoni, 4–8 November 2019.  [slides](/villa_vigoni.pdf)
 
 ## In Italian
 
