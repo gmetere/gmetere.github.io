@@ -39,11 +39,11 @@ Villa Vigoni, 4–8 November 2019.  [slides](/villa_vigoni.pdf)
 
 ### Archimede, appunti per un viaggio a Siracusa
 
-Intervento tenuto nella classe 2H del Liceo Classico G. Carducci, Milano, 2024.  [PDF](/archimede.pdf)
+Intervento tenuto nella classe 2H del Liceo Classico G. Carducci, Milano, 2024.  [slides](/archimede.pdf)
 
 ### La googologia e la logica dei grandi numeri
 
-Intervento in occasione del World Logic Day 2024, Palermo.  [PDF](/googology.pdf)
+Intervento in occasione del World Logic Day 2024, Palermo.  [slides](/googology.pdf)
 
 
 ### C'è un'età per la scienza?
@@ -55,4 +55,4 @@ Pubblicato in *Dalla Società della Scienza*, Palermo University Press, 2025.  [
 ### Un invito all'algebra categoriale
 
 Seminario di Dipartimento, Università degli Studi di Palermo,  
-8 June 2022.  [PDF](/invito.pdf)
+8 June 2022.  [slides](/invito.pdf)
