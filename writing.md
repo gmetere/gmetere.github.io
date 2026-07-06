@@ -9,7 +9,7 @@ Expository writings, lecture notes, mathematical dialogues, and texts
 intended for a broader mathematical audience.
 </p>
 
-## Expository writings and notes
+## Lecture notes and expository texts
 
 ### Good actions. Algebraic and categorical perspectives
 
@@ -19,6 +19,8 @@ Notes from a lecture given at Stellenbosch University in April 2026.  [PDF](/act
 
 A travel guide to group theory for second-year mathematics students.  
 Course notes, April 2026.  [PDF](/sylow.pdf)
+
+## Reflections and essays 
 
 ### The wise old scientist: a commentary on ethics, old age and science
 
