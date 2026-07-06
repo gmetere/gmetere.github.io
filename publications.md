@@ -13,7 +13,7 @@ The list below is ordered from newest to oldest. For journal publications,
 the first link points to the journal page or DOI. When available, I also
 include a link to an arXiv version or to an openly accessible PDF.
 
-## Published papers
+## Journal articles
 
 1. M. Mancini, G. Metere and F. Piazza,  
    **Coherent and ideal actions in ideally exact categories**,  
