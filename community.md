@@ -27,7 +27,7 @@ the Workshop in Categorical Algebra, an international meeting devoted to
 categorical algebra and its interactions with algebra, logic, and
 topology.
 
-- CatAlg2006, Milan
+- CatAlg2006, Milan [website](https://web.archive.org/web/20161201184407/http://www.mat.unimi.it/users/mantovani/workshopMi06.htm)
 - CatAlg2011, Gargnano del Garda [website](https://gmetere.github.io/Gargnano2011/)
 - CatAlg2015, Gargnano del Garda [website](https://gmetere.github.io/Gargnano2015/) 
 - CatAlg2018, Gargnano del Garda [website](https://gmetere.github.io/Gargnano2018/)
