@@ -6,7 +6,7 @@ permalink: /
 
 <section class="hero">
 
-<img src="/images/foto.png" alt="Giuseppe Metere" class="portrait">
+<img src="/images/foto.jpg" alt="Giuseppe Metere" class="portrait">
 
 <p class="eyebrow">Associate Professor of Algebra</p>
 
