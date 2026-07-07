@@ -13,7 +13,7 @@ The list below is ordered from newest to oldest. For journal publications,
 the first link points to the journal page or DOI. When available, I also
 include a link to an arXiv version or to an openly accessible PDF.
 
-## Published papers
+## Journal articles
 
 1. M. Mancini, G. Metere and F. Piazza,  
    **Coherent and ideal actions in ideally exact categories**,  
@@ -61,7 +61,7 @@ include a link to an arXiv version or to an openly accessible PDF.
 
 1. D. Bourn and G. Metere,  
    **A note on the categorical notions of normal subobject and of equivalence class**,  
-   *Theory and Applications of Categories* 36, no. 3 (2021), 65–101.
+   *Theory and Applications of Categories* 36, no. 3 (2021), 65–101.  
    [Journal](http://www.tac.mta.ca/tac/volumes/36/3/36-03abs.html)  
    · [PDF](http://www.tac.mta.ca/tac/volumes/36/3/36-03.pdf)
 
@@ -201,7 +201,7 @@ include a link to an arXiv version or to an openly accessible PDF.
 1. M. Mancini, G. Metere, F. Piazza and M. E. Tabacchi,  
    **On split extensions of product hoops**,  
    conference paper, 2025 IEEE International Conference on Fuzzy Systems.  
-   [IEEE Xplore](https://ieeexplore.ieee.org/document/11152177)
+   [website](https://ieeexplore.ieee.org/document/11152177)
 
 ## Preprints and unpublished notes
 

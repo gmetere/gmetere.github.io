@@ -8,12 +8,14 @@ permalink: /talks/
 Selected talks, lectures, seminar presentations, and slides.
 </p>
 
+This is a selected list. A more complete list of talks and conference participation is available in my [CV](/curriculum.pdf).
+
 ## Recent talks
 
 ### Coherent and ideal actions in ideally exact categories
 
 SIC — Séminaire Itinérant de Catégories,  
-Louvain-la-Neuve, Belgium, 6 September 2025.
+Louvain-la-Neuve, Belgium, 6 September 2025.  
 [Slides](/SIC_2025_metere.pdf)
 
 ### The Butterfly Effect
@@ -34,8 +36,8 @@ Dipartimento di Matematica, Università degli Studi di Milano,
 ### Groupal pseudofunctors and cohomology 2-groups
 
 107th Peripatetic Seminar on Sheaves and Logic,  
-Athens, Greece, 31 March – 1 April 2023.
-
+Athens, Greece, 31 March – 1 April 2023.  
+[Slides](/pssl107.pdf)
 
 ### Groupal pseudofunctors
 
@@ -46,18 +48,16 @@ Università di Torino, 7 September 2022.
 
 ### Some fibrational properties of normal monomorphisms
 
-TAC seminar, Università di Genova,  
-20 February 2020
-and
 Algebra, Logic and Topology Seminar (CMUC), 
-14 July 2020
+14 July 2020  
 [Slides](/ideality.pdf)
 
 
 ### Fibred and internal aspects of distributors composition
 
 103rd Peripatetic Seminar on Sheaves and Logic,  
-Masaryk University, Brno, 7 April 2018.
+Masaryk University, Brno, 7 April 2018.  
+[Slides](/pssl103.pdf)
 
 ### Some thoughts on Yoneda's regular spans and related notions
 

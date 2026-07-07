@@ -33,6 +33,10 @@ homological behaviour, including exact sequences of higher groupoids,
 internal crossed modules, Peiffer commutators, normal monomorphisms,
 relative ideals, and categorical forms of obstruction theory.
 
+### Grothendieck fibrations
+
+I have worked on Grothendieck fibrations and indexed categorical structures, with particular attention to their role in the fibrational organisation of algebraic constructions.
+
 ## Butterflies, crossed modules, and higher-dimensional algebra
 
 Another recurring theme is the use of butterflies and related structures
@@ -72,3 +76,7 @@ online courses, and other scientific activities.
 
 In 2023 I was head of the Palermo research unit of the PRIN PNRR project
 “Quantum Models for Logic, Computation and Natural Processes”.
+
+## Selected keywords
+
+semi-abelian categories · protomodularity · Grothendieck fibrations · internal groupoids · crossed modules · 2-groups · butterflies · algebraic logic · MV-algebras · hoops · torsion theories

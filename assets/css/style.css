@@ -750,10 +750,17 @@ a {
 .site-nav a.active {
   color: var(--link);
   border-bottom-color: var(--link);
+  font-weight: 600;
+}
+
+@media (min-width: 720px) {
+  .site-nav {
+    gap: 0.6rem 1.15rem;
+  }
 }
 
 .site-nav a.active::before {
-  content: "· ";
+  content: "";
 }
 
 @media (max-width: 640px) {
@@ -872,4 +879,148 @@ a {
 
 .home-contact p {
   max-width: 680px;
+}
+/* =========================================================
+   Two-column persistent navigation layout
+   ========================================================= */
+
+.site {
+  max-width: 1120px;
+  display: grid;
+  grid-template-columns: minmax(0, 800px) 220px;
+  gap: 4rem;
+  align-items: start;
+}
+
+.sidebar {
+  grid-column: 2;
+  grid-row: 1;
+  position: sticky;
+  top: 2rem;
+  align-self: start;
+}
+
+.content {
+  grid-column: 1;
+  grid-row: 1;
+  max-width: 800px;
+  min-width: 0;
+}
+
+.site-header {
+  display: block;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.site-branding {
+  margin-bottom: 1.4rem;
+}
+
+.site-title a {
+  display: inline-block;
+  font-size: 1.65rem;
+  line-height: 1.1;
+}
+
+.site-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.55rem;
+  font-size: 0.92rem;
+  line-height: 1.35;
+}
+
+.site-nav a {
+  display: inline-block;
+  padding-bottom: 0.08rem;
+}
+
+.site-nav a.active {
+  font-weight: 600;
+}
+
+.site-nav a.active::before {
+  content: "";
+}
+
+.site-footer {
+  max-width: 800px;
+}
+
+/* Subtle right-navigation frame */
+
+.sidebar .site-header {
+  padding-left: 1.2rem;
+  border-left: 1px solid var(--border);
+}
+
+.sidebar .site-title {
+  margin-bottom: 0.2rem;
+}
+
+/* Tablet: keep side navigation, but tighter */
+
+@media (max-width: 920px) {
+  .site {
+    grid-template-columns: minmax(0, 1fr) 180px;
+    gap: 2.2rem;
+  }
+
+  .site-title a {
+    font-size: 1.45rem;
+  }
+
+  .site-nav {
+    font-size: 0.86rem;
+  }
+}
+
+/* Smartphone: navigation moves to the top and remains sticky */
+
+@media (max-width: 720px) {
+  .site {
+    display: block;
+    max-width: var(--max-width);
+    padding-top: 0;
+  }
+
+  .sidebar {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    margin: 0 -1rem 2.4rem;
+    padding: 1rem 1rem 0.85rem;
+    background:
+      linear-gradient(to bottom, rgba(251, 250, 247, 0.98), rgba(251, 250, 247, 0.94));
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .sidebar .site-header {
+    padding-left: 0;
+    border-left: 0;
+  }
+
+  .site-branding {
+    margin-bottom: 0.75rem;
+  }
+
+  .site-title a {
+    font-size: 1.55rem;
+  }
+
+  .site-nav {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.35rem 0.75rem;
+    font-size: 0.82rem;
+    line-height: 1.35;
+  }
+
+  .content {
+    max-width: 100%;
+  }
 }
