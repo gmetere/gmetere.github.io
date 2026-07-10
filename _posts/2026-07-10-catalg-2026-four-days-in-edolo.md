@@ -82,5 +82,10 @@ When the last participants left Edolo, the rooms became quiet again. But the con
 
 For me, this is one of the best possible results of a workshop.
 
-The complete programme, abstracts, slides, list of participants, and photographs are available on the  
-[CatAlg 2026 conference website](https://sites.google.com/view/catalg2026/).
+The complete programme, abstracts, slides, list of participants, and photographs are available on the [CatAlg 2026 conference website](https://sites.google.com/view/catalg2026/).
+
+---
+
+Comments and discussion are welcome on [Mathstodon](https://mathstodon.xyz/@Beppe/116894682823714375).
+
+
