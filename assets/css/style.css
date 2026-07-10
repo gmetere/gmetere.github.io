@@ -571,8 +571,8 @@ a:hover {
 /* Home portrait */
 
 .portrait {
-  width: 138px;
-  max-width: 30%;
+  width: 190px;
+  max-width: 38%;
   border-radius: 8px;
   border: 1px solid var(--border);
   padding: 4px;
@@ -714,13 +714,15 @@ a {
     font-size: 1.28rem;
   }
 
+  
   .portrait {
     float: none;
     display: block;
-    width: 128px;
-    max-width: 128px;
+    width: 170px;
+    max-width: 170px;
     margin: 0 0 1.5rem 0;
   }
+
 
   .card {
     padding: 1rem;
