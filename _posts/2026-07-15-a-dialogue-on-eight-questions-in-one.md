@@ -8,7 +8,7 @@ What appears at first to be a single question turns out to conceal several disti
 
 The paper is written as a dialogue. This form is not merely stylistic: it allows the assumptions to emerge gradually, separates questions that are easily conflated, and makes the process of conceptual clarification part of the mathematical argument itself.
 
-Among the examples considered, the variety of non-empty heaps plays a particularly illuminating role. It provides a positive answer in one of the relevant settings and helps locate precisely the boundary between the different formulations of the problem.
+Among the examples considered, the category of non-empty heaps plays a particularly illuminating role. It provides a positive answer in one of the relevant settings and helps locate precisely the boundary between the different formulations of the problem.
 
 More generally, the paper illustrates how mathematical progress may consist not only in answering a question, but also in discovering its correct formulation. Here, the answer becomes visible only after the apparently single problem has been disentangled into its distinct components.
 
