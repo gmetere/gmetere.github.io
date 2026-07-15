@@ -1,5 +1,3 @@
-## A Dialogue on Eight Questions in One
-
 Discussing the role of empty algebras across the communities of universal algebra and category theory is not always easy. The issue is tied so closely to established conventions that, at times, even making those conventions explicit can feel almost taboo.
 
 I have recently completed a paper arising from a question raised by Paolo Aglianò: does there exist a protomodular variety without an initial object?
