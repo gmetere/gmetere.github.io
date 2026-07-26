@@ -1,5 +1,3 @@
-**Publish or perish is about to perish**
-
 For decades we have been told that mathematical research is a noble activity: one sits quietly, thinks deeply, struggles with beautiful structures, proves theorems, and occasionally writes them down.
 
 Then universities discovered bibliometric indicators.
