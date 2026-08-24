@@ -106,7 +106,7 @@ Italy
 </p>
 
 <p>
-Email: giuseppe.metere at unimi dot it
+Email: giuseppe.metere AT unimi DOT it
 </p>
 
 <p>
