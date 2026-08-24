@@ -115,7 +115,9 @@ Email: giuseppe DOT metere AT unimi DOT it
 <a href="https://github.com/gmetere">GitHub</a>
 </p>
 
-<a href="https://mapmyvisitors.com/web/1c7oc"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=p8RltLrhtSvpIgia7e_nzngr8_mPtaWcvTV3w87tyBw&cl=ffffff" /></a>
+<p>
+<a href='https://mapmyvisitors.com/web/1c7oc'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=080808&w=560&t=tt&d=p8RltLrhtSvpIgia7e_nzngr8_mPtaWcvTV3w87tyBw&co=ffffff&ct=808080'/></a>
+</p>
 
 </section>
 
