@@ -205,6 +205,10 @@ include a link to an arXiv version or to an openly accessible PDF.
 
 ## Preprints and unpublished notes
 
+1. M. Hoefnagel, D. Kleyn, G. Metere, 
+   **A note on coextensivity of bounded hoops**,
+   [arXiv](https://arxiv.org/abs/2608.30476)
+
 1. G. Metere,  
    **A Dialogue on Eight Questions in One**,  
    unpublished preprint, 2026.  
