@@ -7,13 +7,20 @@ permalink: /publications/
 <p class="lead">
 Published papers, preprints, and selected mathematical notes.
 </p>
+## News
 
+New preprint is out!
+
+M. Hoefnagel, D. Kleyn, G. Metere,    
+   [**A note on coextensivity of bounded hoops**](https://arxiv.org/abs/2608.30476)
+
+We characterise coextensive morphisms in the category of bounded hoops and show that several categories of bounded hoops are coextensive.
+
+## Journal articles
 
 The list below is ordered from newest to oldest. For journal publications,
 the first link points to the journal page or DOI. When available, I also
 include a link to an arXiv version or to an openly accessible PDF.
-
-## Journal articles
 
 1. M. Mancini, G. Metere and F. Piazza,  
    **Coherent and ideal actions in ideally exact categories**,  
